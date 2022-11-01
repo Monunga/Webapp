@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Killogramcalculator'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9BB302D64A354D62B750B4342EA6CC7C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0EB0F9779F0B43EE9B1F0C1B627055CD }}
           package: .
